@@ -3,3 +3,5 @@ smartnotes/__pycache__
 db.sqlite3
 home/__pycache__
 home/migrations
+notes/__pycache__
+notes/migrations
